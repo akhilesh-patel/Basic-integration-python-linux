@@ -1,5 +1,5 @@
 import os
-print("welcome this is my tui program!!!")
+print("welcome this is my TUI  program!!!")
 os.system("tput setaf 7")
 print("..................................")
 print(" ")
