@@ -2,7 +2,7 @@ import os
 print("welcome this is my tui program!!!")
 os.system("tput setaf 7")
 print("..................................")
-print(" what do you like to job location satisfaction(local/remote):", end = '')
+print(" what do you like to job location (local/remote):", end = '')
 location=input()
 print(location)
 if location == "remote":
